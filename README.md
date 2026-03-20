@@ -1,2 +1,3 @@
-# prime-analytics-dashboard-3cgm
-Analytics dashboard for modern development workflows
+# Prime Analytics Dashboard 3Cgm
+
+A analytics dashboard for modern development workflows.
